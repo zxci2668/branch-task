@@ -1,0 +1,9 @@
+{
+  "comment": "将此段添加到 ~/.workbuddy/mcp.json 的 mcpServers 中，路径改成你自己的实际路径",
+  "branch-task-wpf": {
+    "type": "stdio",
+    "command": "node",
+    "args": ["<项目绝对路径>/branch-task-wpf-mcp/dist/index.js"],
+    "disabled": false
+  }
+}
