@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "branch-task": {
+      "command": "node",
+      "args": ["<项目绝对路径>/branch-task-app/mcp-server/dist/index.js"]
+    }
+  }
+}
